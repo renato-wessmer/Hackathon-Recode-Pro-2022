@@ -1,5 +1,5 @@
 # Hackathon Recode Pro 2022
- ## :computer: Tecnologias Utilizadas
+ ## :computer: Tecnologias Utilizadas.
 
 * **Ferramentas:** MIT App Inventor.
 
